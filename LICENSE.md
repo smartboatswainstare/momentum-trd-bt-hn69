@@ -1,4 +1,4 @@
-# 
+# premium ftx trading bot executor is the best ftx trading bot executor with auto-leverage and liquidation-sniping. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
